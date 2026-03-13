@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Manoj P -- Team Lead -- manoj.p@trenser.com
 
 # THANKS
 
